@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "dsa with deepak_e54b39a9"
+        },
+        {
+            "type": "java",
+            "name": "factorials",
+            "request": "launch",
+            "mainClass": "factorials",
+            "projectName": "dsa with deepak_e54b39a9"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "dsa with deepak_e54b39a9"
+        },
+        {
+            "type": "java",
             "name": "swap",
             "request": "launch",
             "mainClass": "swap",
